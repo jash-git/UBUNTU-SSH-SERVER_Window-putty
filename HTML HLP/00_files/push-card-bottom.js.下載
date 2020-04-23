@@ -1,0 +1,9 @@
+var push_card_div = $('<div id="push-card-bottom">');
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2019/07/esun-u-bear.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-esun-ubear.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2019/09/esun-only.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-esun-only.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2019/06/sinopac-dawho-creditcard.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-sinopac-dawho.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2020/01/sinopac-dream-excellence-business-card.png.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-sinopac-dream.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2019/02/hsbc-event.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-hsbc-cashback.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+push_card_div.append($('<div style="margin:5px; display:inline-block;"><a href="https://www.ewdna.com/2019/01/feib-event.html" target="_blank"><img src="https://cdn.staticaly.com/gh/ewdna/host/master/temp/web/push/push-card-feib-bankee.png?env=dev" style="border:1px green dashed;"/></a></div>'));
+
+push_card_div.appendTo('#Bottom-Ads');
